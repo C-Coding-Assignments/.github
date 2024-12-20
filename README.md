@@ -24,7 +24,3 @@
       <li><a href="https://github.com/C-Coding-Assignments/Bounce-House-Rental-Cost-Calculator">Bounce House Rental Cost Calculator</a></li>
     </ul>
   </details>
-
-  <footer>
-    <p>&copy; 2024 C Coding Assignments - All Rights Reserved.</p>
-  </footer>
