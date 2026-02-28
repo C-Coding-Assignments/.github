@@ -65,9 +65,9 @@
   The <a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
 </p>
 
-<h3>Dynamic Data Manipulator</h3>
+<h3>Pokémon Go Game Simulation</h3>
 <p>
-  The <a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a> is an advanced C programming project that showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
+  The <a href="https://github.com/C-Coding-Assignments/Pokemon-Go-Game-Simulation">Pokémon Go Game Simulation</a> is an advanced C programming project that showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
 </p>
 
 <h2 id="projects">Projects</h2>
