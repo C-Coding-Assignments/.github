@@ -74,8 +74,8 @@
 <details>
   <summary><a href="https://github.com/C-Coding-Assignments">C Projects</a></summary>
   <ul>
-    <li><a href="https://github.com/C-Coding-Assignments/Agile-Data-Processor">Agile Data Processor</a></li>
-    <li><a href="https://github.com/C-Coding-Assignments/Dynamic-Data-Manipulator">Dynamic Data Manipulator</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-System-Simulation">Student Registration System Simulation</a></li>
+    <li><a href="https://github.com/C-Coding-Assignments/Pokemon-Go-Game-Simulation">Pokémon Go Game Simulation</a></li>
     <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
     <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
     <li><a href="https://github.com/C-Coding-Assignments/Student-Registration-Queue-Part-1">Student Registration Queue Part 1</a></li>
