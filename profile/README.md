@@ -62,12 +62,12 @@
 
 <h3>Student Registration System Simulation</h3>
 <p>
-  The <a href="https://github.com/C-Coding-Assignments/Student-Registration-System-Simulation">Student Registration System Simulation</a> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
+  A <a href="https://github.com/C-Coding-Assignments/Student-Registration-System-Simulation">C-based student registration system simulation</a> designed to model real-world enrollment workflows. The system manages dynamic datasets representing students, course allocations, and registration states, emphasizing efficient memory allocation, structured procedural design, and scalable data handling within a controlled execution pipeline.
 </p>
 
 <h3>Pokémon Go Game Simulation</h3>
 <p>
-  The <a href="https://github.com/C-Coding-Assignments/Pokemon-Go-Game-Simulation">Pokémon Go Game Simulation</a> is an advanced C programming project that showcases mastery of complex programming concepts, including data manipulation, pointer arithmetic, file handling, and dynamic memory management. The project consists of three intricately linked programs, each designed to demonstrate practical problem-solving and efficient algorithm design in C.
+  A <a href="https://github.com/C-Coding-Assignments/Pokemon-Go-Game-Simulation">Pokémon Go-inspired C simulation</a> that models real-time player interactions, Pokémon encounters, and structured data transformations. The system leverages pointer-based data traversal, file I/O pipelines, and dynamic memory management to simulate player progression, inventory handling, and event-driven gameplay mechanics within a modular multi-program architecture.
 </p>
 
 <h2 id="projects">Projects</h2>
