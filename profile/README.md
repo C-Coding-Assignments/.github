@@ -62,35 +62,35 @@
 
 <h3>Student Registration System Simulation</h3>
 <p>
-  A <a href="https://github.com/C-Coding-Projects/Student-Registration-System-Simulation">C-based student registration system simulation</a> designed to model real-world enrollment workflows. The system manages dynamic datasets representing students, course allocations, and registration states, emphasizing efficient memory allocation, structured procedural design, and scalable data handling within a controlled execution pipeline.
+  A <a href="https://github.com/Garretts-C-Projects/Student-Registration-System-Simulation">C-based student registration system simulation</a> designed to model real-world enrollment workflows. The system manages dynamic datasets representing students, course allocations, and registration states, emphasizing efficient memory allocation, structured procedural design, and scalable data handling within a controlled execution pipeline.
 </p>
 
 <h3>Pokémon Go Game Simulation</h3>
 <p>
-  A <a href="https://github.com/C-Coding-Projects/Pokemon-Go-Game-Simulation">Pokémon Go-inspired C simulation</a> that models real-time player interactions, Pokémon encounters, and structured data transformations. The system leverages pointer-based data traversal, file I/O pipelines, and dynamic memory management to simulate player progression, inventory handling, and event-driven gameplay mechanics within a modular multi-program architecture.
+  A <a href="https://github.com/Garretts-C-Projects/Pokemon-Go-Game-Simulation">Pokémon Go-inspired C simulation</a> that models real-time player interactions, Pokémon encounters, and structured data transformations. The system leverages pointer-based data traversal, file I/O pipelines, and dynamic memory management to simulate player progression, inventory handling, and event-driven gameplay mechanics within a modular multi-program architecture.
 </p>
 
 <h2 id="projects">Projects</h2>
 <details>
-  <summary><a href="https://github.com/C-Coding-Projects">C Projects</a></summary>
+  <summary><a href="https://github.com/Garretts-C-Projects">C Projects</a></summary>
   <ul>
-    <li><a href="https://github.com/C-Coding-Projects/Student-Registration-System-Simulation">Student Registration System Simulation</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Pokemon-Go-Game-Simulation">Pokémon Go Game Simulation</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Student-Registration-Queue-Part-1">Student Registration Queue Part 1</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Yoga-Studio-Search-Part-2">Yoga Studio Search Part 2</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Yoga-Studio-Search-Part-1">Yoga Studio Search Part 1</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Tokenizer">Tokenizer</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Word-Score-Game">Word Score Game</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Split-String">Split String</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Before-and-After-Array">Before and After Array</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Board-Game">Board Game</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Distinct-Numbers">Distinct Numbers</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Good-Sequence-Checker">Good Sequence Checker</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Scrabble">Scrabble</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Oscillating-Performances">Oscillating Performances</a></li>
-    <li><a href="https://github.com/C-Coding-Projects/Bounce-House-Rental-Cost-Calculator">Bounce House Rental Cost Calculator</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Student-Registration-System-Simulation">Student Registration System Simulation</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Pokemon-Go-Game-Simulation">Pokémon Go Game Simulation</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Student-Registration-Queue-Part-3">Student Registration Queue Part 3</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Student-Registration-Queue-Part-2">Student Registration Queue Part 2</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Student-Registration-Queue-Part-1">Student Registration Queue Part 1</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Yoga-Studio-Search-Part-2">Yoga Studio Search Part 2</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Yoga-Studio-Search-Part-1">Yoga Studio Search Part 1</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Tokenizer">Tokenizer</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Word-Score-Game">Word Score Game</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Split-String">Split String</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Before-and-After-Array">Before and After Array</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Board-Game">Board Game</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Distinct-Numbers">Distinct Numbers</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Good-Sequence-Checker">Good Sequence Checker</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Scrabble">Scrabble</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Oscillating-Performances">Oscillating Performances</a></li>
+    <li><a href="https://github.com/Garretts-C-Projects/Bounce-House-Rental-Cost-Calculator">Bounce House Rental Cost Calculator</a></li>
   </ul>
 </details>
 
